@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/uycdoq24nuoorplc?svg=true)](https://ci.appveyor.com/project/Lulu0307/deliveryorderapp2)
+[Allure Report](http://localhost:63342/DeliveryOrderApp/build/reports/allure-report/index.html?_ijt=bt0ijpcf60cfcmbcuva6ph5qdi)
